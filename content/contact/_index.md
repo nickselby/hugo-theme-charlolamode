@@ -1,15 +1,4 @@
 ---
 Title: Contact
-type: list
+description: Please send an email to nick [at] fuzztechnology [dot] com and I will reply within 24 hours. 
 ---
-
-
-#### LinkedIn
-If you have a short message or question, drop a message via [LinkedIn](https://www.linkedin.com/in/heycharlola/).
-
-
-<!-- #### Email
-For enquiries or longer messages, please email me. -->
-
-
-
